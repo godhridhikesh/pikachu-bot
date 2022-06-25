@@ -44,13 +44,13 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('🍻 ᴀᴅᴅ ᴍᴇ ᴀɴᴅ ɴᴊᴏʏ 🍻 ', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
              ],[
-             InlineKeyboardButton('🦋 ᴍʏ ɢʀᴘ 🦋 ', url='https://t.me/mal_rock'),
-             InlineKeyboardButton('🦋 ᴜᴘᴅᴀᴛᴇs 🦋', url='https://t.me/Electro_Botz')
+             InlineKeyboardButton('🏝 ᴍʏ ɢʀᴘ 🏝 ', url='https://t.me/mal_rock'),
+             InlineKeyboardButton('🏝 ᴜᴘᴅᴀᴛᴇs 🏝', url='https://t.me/Electro_Botz')
              ],[      
-             InlineKeyboardButton('🦋 ʜᴇʟᴘ 🦋', callback_data='help'),
-             InlineKeyboardButton('🦋 ᴀʙᴏᴜᴛ 🦋', callback_data='about')
+             InlineKeyboardButton('🏝 ʜᴇʟᴘ 🏝', callback_data='help'),
+             InlineKeyboardButton('🏝 ᴀʙᴏᴜᴛ 🏝', callback_data='about')
              ],[
-             InlineKeyboardButton('🍁 ᴜʙsᴄʀɪʙᴇ 🍁  ', url='https://youtube.com/channel/UC8cwZPS77sTgoX9QD1NLwWw')
+             InlineKeyboardButton('🍁 sᴜʙsᴄʀɪʙᴇ 🍁  ', url='https://youtube.com/channel/UC8cwZPS77sTgoX9QD1NLwWw')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
@@ -92,13 +92,13 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('🍻 ᴀᴅᴅ ᴍᴇ ᴀɴᴅ ɴᴊᴏʏ 🍻 ', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
              ],[
-             InlineKeyboardButton('🦋 ᴍʏ ɢʀᴘ 🦋 ', url='https://t.me/mal_rock'),
-             InlineKeyboardButton('🦋 ᴜᴘᴅᴀᴛᴇs 🦋', url='https://t.me/Electro_Botz')
+             InlineKeyboardButton('🏝 ᴍʏ ɢʀᴘ 🏝 ', url='https://t.me/mal_rock'),
+             InlineKeyboardButton('🏝 ᴜᴘᴅᴀᴛᴇs 🏝', url='https://t.me/Electro_Botz')
              ],[      
-             InlineKeyboardButton('🦋 ʜᴇʟᴘ 🦋', callback_data='help'),
-             InlineKeyboardButton('🦋 ᴀʙᴏᴜᴛ 🦋', callback_data='about')
+             InlineKeyboardButton('🏝 ʜᴇʟᴘ 🏝', callback_data='help'),
+             InlineKeyboardButton('🏝 ᴀʙᴏᴜᴛ 🏝', callback_data='about')
              ],[
-             InlineKeyboardButton('🍁 ᴜʙsᴄʀɪʙᴇ 🍁  ', url='https://youtube.com/channel/UC8cwZPS77sTgoX9QD1NLwWw')
+             InlineKeyboardButton('🍁 sᴜʙsᴄʀɪʙᴇ 🍁  ', url='https://youtube.com/channel/UC8cwZPS77sTgoX9QD1NLwWw')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
