@@ -11,7 +11,7 @@ class script(object):
  ❦︎ ʙᴏᴛ sᴇʀᴠᴇʀ : ഞമ്മളെ കോഴിക്കോട് 🍃
  ❦︎ ʙᴜɪʟᴅ sᴛᴀᴛᴜs : അടുത്ത കൊല്ലം ഷഷ്ടി 🌬
  ❦︎ ᴜᴘᴅᴀᴛᴇs : <a href=https://t.me/Electro_Botz>Eʟᴇᴄᴛʀᴏ Bᴏᴛᴢ ⚡️</a>
-❦︎ Yᴛ ᴄʜᴀɴɴᴇʟ :  <a href=https://youtube.com/channel/UC8cwZPS77sTgoX9QD1NLwWw>Oᴘ Eʟᴇᴄᴛʀᴏ 💥<a/> ]"""
+❦︎ Yᴛ ᴄʜᴀɴɴᴇʟ :  <a href=https://youtube.com/channel/UC8cwZPS77sTgoX9QD1NLwWw>Oᴘ Eʟᴇᴄᴛʀᴏ 💥<a/>"""
     SOURCE_TXT = """<b>NOTE:</b>
 - Eva Maria is a open source project. 
 - Source - https://github.com/EvamariaTG/EvaMaria  
