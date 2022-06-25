@@ -11,18 +11,18 @@ class script(object):
  ❦︎ ʙᴏᴛ sᴇʀᴠᴇʀ : ഞമ്മളെ കോഴിക്കോട് 🍃
  ❦︎ ʙᴜɪʟᴅ sᴛᴀᴛᴜs : അടുത്ത കൊല്ലം ഷഷ്ടി 🌬
  ❦︎ ᴜᴘᴅᴀᴛᴇs : <a href=https://t.me/Electro_Botz>Eʟᴇᴄᴛʀᴏ Bᴏᴛᴢ ⚡️</a>"""
-    SOURCE_TXT = """<b>NOTE:</b>
-- Eva Maria is a open source project. 
-- Source - https://github.com/EvamariaTG/EvaMaria  
+    SOURCE_TXT = """<b>Hᴇʏ ʟᴀᴅs , ᴡʜᴀᴛs ᴜᴘ 💖:</b>
+- ᴛʜɪs ʙᴏᴛ ɪs ᴍᴀᴅᴇ ғᴏʀ ᴀsᴋɪɴɢ ᴍᴏᴠɪᴇs 
+- sᴏ ᴅᴏɴᴛ ʏᴏᴜ ᴊᴜsᴛ ᴡᴀɪᴛ ᴛʜᴇʀᴇ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏɪʀ ɢʀᴏᴜᴘ ᴀɴᴅ ᴇɴᴊᴏʏ 🧚‍♂️
 
-<b>DEVS:</b>
-- <a href=https://t.me/TeamEvamaria>Team Eva Maria</a>"""
+<b>Mʏ Dᴀᴅ ✨:</b>
+- <a href=https://t.me/mr_perfect_07>Mʀ Pᴇʀғᴇᴄᴛ </a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
-- Filter is the feature were users can set automated replies for a particular keyword and EvaMaria will respond whenever a keyword is found the message
+- Filter is the feature were users can set automated replies for a particular keyword and 𝙸 will respond whenever a keyword is found the message
 
 <b>NOTE:</b>
-1. eva maria should have admin privillage.
+1. 𝙸 should have admin privillage.
 2. only admins can add filters in a chat.
 3. alert buttons have a limit of 64 characters.
 
@@ -37,11 +37,11 @@ class script(object):
 
 <b>NOTE:</b>
 1. Telegram will not allows you to send buttons without any content, so content is mandatory.
-2. Eva Maria supports buttons with any telegram media type.
+2. 𝙸 support buttons with any telegram media type.
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
-<code>[Button Text](buttonurl:https://t.me/EvaMariaBot)</code>
+<code>[Button Text](buttonurl:https://t.me/mal_rock)</code>
 
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""
