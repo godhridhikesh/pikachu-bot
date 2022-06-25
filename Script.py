@@ -3,13 +3,15 @@ class script(object):
    Iᴀᴍ ᴀ ᴡᴇʟʟ ᴍᴀɪɴᴛᴀɴᴇᴅ ᴀᴜᴛᴏ ғɪʟᴛᴇʀ ʙᴏᴛ 🦋 ʏᴏᴜ ᴄᴀɴ ᴀsᴋ ᴍᴇ ᴛʜᴇ ᴍᴏᴠɪᴇs, sᴇʀɪᴇs ʏᴏᴜ ᴡᴀɴᴛ ..🍭"""
     HELP_TXT = """ʜᴇʏ  {}
  ᴡᴀɴɴᴀ ɴᴇᴇᴅ sᴏᴍᴇ ʜᴇʟᴘ 🧚‍♀."""
-    ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
-✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/TeamEvamaria>Team Eva Maria</a>
-✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
-✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
-✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
-✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: 𝙷𝙴𝚁𝙾𝙺𝚄
-✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]"""
+    ABOUT_TXT = """✯ ❦︎  ᴍʏ ɴᴀᴍᴇ : Mʀ Pɪᴋᴀᴄʜᴜ ⚡️
+ ❦︎ ᴄʀᴇᴀᴛᴏʀ : <a href=https://t.me/mr_perfect_07>Mʀ Pᴇʀғᴇᴄᴛ 🕊</a>
+ ❦︎ ʟɪʙʀᴀʀʏ : 
+ ❦︎ ʟᴀɴɢᴜᴀɢᴇ : നല്ല പച്ച മംഗ്ലീഷ് 🥂
+ ❦︎ ᴅᴀᴛᴀ ʙᴀsᴇ : ഓ അയിന് ഞാൻ AI ആണ് ✨
+ ❦︎ ʙᴏᴛ sᴇʀᴠᴇʀ : ഞമ്മളെ കോഴിക്കോട് 🍃
+ ❦︎ ʙᴜɪʟᴅ sᴛᴀᴛᴜs : അടുത്ത കൊല്ലം ഷഷ്ടി 🌬
+ ❦︎ ᴜᴘᴅᴀᴛᴇs : <a href=https://t.me/Electro_Botz>Eʟᴇᴄᴛʀᴏ Bᴏᴛᴢ ⚡️</a>
+❦︎ Yᴛ ᴄʜᴀɴɴᴇʟ : <a href=https://youtube.com/channel/UC8cwZPS77sTgoX9QD1NLwWw<a/>𝙰 ]"""
     SOURCE_TXT = """<b>NOTE:</b>
 - Eva Maria is a open source project. 
 - Source - https://github.com/EvamariaTG/EvaMaria  
